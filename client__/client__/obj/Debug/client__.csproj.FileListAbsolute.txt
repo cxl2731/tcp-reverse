@@ -1,0 +1,8 @@
+d:\documents\visual studio 2013\Projects\client__\client__\bin\Debug\client__.exe.config
+d:\documents\visual studio 2013\Projects\client__\client__\bin\Debug\client__.exe
+d:\documents\visual studio 2013\Projects\client__\client__\bin\Debug\client__.pdb
+d:\documents\visual studio 2013\Projects\client__\client__\obj\Debug\client__.Form1.resources
+d:\documents\visual studio 2013\Projects\client__\client__\obj\Debug\client__.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\client__\client__\obj\Debug\client__.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\client__\client__\obj\Debug\client__.exe
+d:\documents\visual studio 2013\Projects\client__\client__\obj\Debug\client__.pdb
